@@ -2,8 +2,7 @@
 """
 Created on Sun Jan 31 22:29:06 2021
 
-@author: Josh Mossing
-Week 4 Discussion HW- Classes
+
 """
 #The Class Wrestler is initialized with following attributes below
 #team, weight_class, wins, losses, and rank
@@ -61,4 +60,5 @@ print(Wrestler.num_wrestlers)
 # print(wrestler2.team)
 # print(wrestler2.compute_win_percentage())
 # print(wrestler2.get_weight_group())
+
 # print(wrestler2.compute_rank_percentage())
