@@ -1,8 +1,6 @@
 
 
 
-# Problem 2 (2 points)
-# Create a class and implement it for your problem of interest
 class Worker: 
     def __init__ (self, first:str, last:str, salary:int):
         self.first = first
@@ -210,5 +208,6 @@ class MyTestCases(unittest.TestCase):
 ##################################################
 if __name__ == "__main__":
     unittest.main()
+
 
 
